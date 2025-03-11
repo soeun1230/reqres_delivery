@@ -16,4 +16,4 @@ spec:
         - name: delivery
           image: user06registry.azurecr.io/delivery:latest
           ports:
-            - containerPort: 8080
+            - containerPort: 8081
